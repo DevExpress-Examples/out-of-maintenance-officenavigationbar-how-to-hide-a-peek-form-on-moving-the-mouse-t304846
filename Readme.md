@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Main.cs](./CS/WindowsApplication3/Main.cs) (VB: [Main.vb](./VB/WindowsApplication3/Main.vb))**
+* [OfficeNavigationBarHelper.cs](./CS/WindowsApplication3/OfficeNavigationBarHelper.cs) (VB: [OfficeNavigationBarHelper.vb](./VB/WindowsApplication3/OfficeNavigationBarHelper.vb))
+<!-- default file list end -->
 # OfficeNavigationBar - How to hide a peek form on moving the mouse
 
 
